@@ -528,7 +528,7 @@ const App: React.FC = () => {
 
       {/* Footer / Logs (Hidden on mobile mostly) */}
       <footer className="p-6 text-center text-neutral-600 text-sm border-t border-neutral-800">
-        <p>The Gilded Razor © 2024. Powered by Gemini Multimodal Live API.</p>
+        <p>The Gilded Razor © 2024. Designed and developed @ <a href="https://bridgehomies.com">Bridge Homies</a></p>
       </footer>
     </div>
   );
