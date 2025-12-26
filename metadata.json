@@ -1,0 +1,7 @@
+{
+  "name": "The Gilded Razor - AI Voice Agent",
+  "description": "A sophisticated voice-first scheduling agent for a high-end barber shop using Gemini Live API and Function Calling.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
